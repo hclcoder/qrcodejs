@@ -1,0 +1,43 @@
+{
+  "name": "hclqrcodejs",
+  "version": "1.0.0",
+  "description": "this javascript library is based on  davidshimjs's qrcodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp initial",
+    "dev": "gulp development",
+    "build": "gulp build"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.7.3",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "cssnano": "^4.1.10",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^7.0.1",
+    "gulp-connect": "^5.7.0",
+    "gulp-html-minifier2": "^1.1.11",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-rev": "^9.0.0",
+    "gulp-rev-collector": "^1.3.1",
+    "gulp-uglify": "^3.0.2"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hclcoder/qrcodejs.git"
+  },
+  "keywords": [
+    "qrcode",
+    "qrcodejs"
+  ],
+  "author": "hcl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hclcoder/qrcodejs/issues"
+  },
+  "homepage": "https://github.com/hclcoder/qrcodejs#readme"
+}
